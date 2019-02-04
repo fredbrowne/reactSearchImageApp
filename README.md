@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+###########################################################################<br>
+This is a study of React, states, props, componenets and API Requests.<br>
+<br>
+This application get user input through a form and do an API request to<br>
+Unsplash API to retrieve images.<br>
+
+Basic configuration:
+User Input and Submit should not refresh the page. It was disabled.<br>
+Data should be retrieved and listed in the page below input form.<br>
+Listed information should have KEY and ALT properties in the IMG tag.<br>
+Use of React.createRef to get Height of Images.<br>
+###########################################################################<br>
+
 ## Available Scripts
 
 In the project directory, you can run:
